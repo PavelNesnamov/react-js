@@ -1,0 +1,10 @@
+.react-container img {
+    width: 170px;
+    padding: 10px;
+
+}
+
+.li {
+    font-weight: 700;
+    list-style: none;
+}
