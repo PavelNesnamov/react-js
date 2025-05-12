@@ -8,7 +8,7 @@ function MyButton({
   
 }) {
   return (
-    <button onClick={func} type={type} className={className} >
+    <button onClick={func} type={type} className={'my-button'} >
     {text}
     </button>
   );

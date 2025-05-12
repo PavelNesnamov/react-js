@@ -1,20 +1,15 @@
-import './App.css'
-import Homework02 from "./homeworks/homework02/Homework02";
+import "./App.css";
 import Homework03 from "./homeworks/homework03/Homework";
-import Lesson03 from "./lessons/lesson03/Lesson03";
-import Lesson04 from "./lessons/lesson04/Lesson04";
+// import Feedback from "./components/feedback/Feedback";
+
+
 
 function App() {
-
   return (
     <>
-      {/* <Homework01/> */}
-      {/* <Homework02/> */}
-      {/* <Lesson03/> */}
-      {/* <Homework03/> */}
-      <Lesson04/>
+      <Homework03/>
     </>
   );
 }
 
-export default App
+export default App;
